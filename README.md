@@ -1,3 +1,4 @@
+[![Build Status](https://cedcx.visualstudio.com/EIE/_apis/build/status/nareddyvatconed.pipelines-dotnet-core?branchName=azure-pipelines)](https://cedcx.visualstudio.com/EIE/_build/latest?definitionId=784&branchName=azure-pipelines)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
